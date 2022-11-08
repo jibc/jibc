@@ -7,10 +7,7 @@
   - React.js
   - Node.js (so the MERN stack)
   - API Rest with JS
-  - MVC Architecture
   
   To be a Fullstack MERN Developer.
-
-- I'm also interested in Web3/Blockchain and Ethical Hacking.
 
 - 📫 How to reach me: https://www.linkedin.com/in/jbcasanave/
