@@ -1,6 +1,6 @@
 ### Hi there i'm Jean-Baptiste Casanave 👋
 
-- 🌱 I’m learning CSS, Responsive Web Design and JS. 
+- 🌱 I’m learning CSS Layout, Responsive Web Design and JS. 
 - Furthermore i plan to get skilled in:
   - MongoDB
   - Express.js
