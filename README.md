@@ -9,7 +9,7 @@
   - Node.js (so the MERN stack)
   - API Rest with JS
   
-  To be a Fullstack React | Node Developer , so called MERN Dev.
+  To be a Fullstack React.js | Node.js Developer , so called MERN Dev.
   
 - 📫 How to reach me: https://www.linkedin.com/in/jbcasanave/
 
